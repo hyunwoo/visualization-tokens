@@ -3,5 +3,6 @@
   "ColorSecondary": "#4174b0",
   "ColorText": "#383838",
   "ColorBackground": "#fafafa",
-  "ColorShadow": "#000000"
+  "ColorShadow": "#000000",
+  "ColorError": "#ff00ff"
 }

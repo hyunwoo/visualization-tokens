@@ -54,6 +54,17 @@
           "exportKey": "color"
         }
       }
+    },
+    "error": {
+      "description": "",
+      "type": "color",
+      "value": "#ff00ffff",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:0fe950bd845050393441e48faf9c5ab11ab85084,",
+          "exportKey": "color"
+        }
+      }
     }
   }
 }
