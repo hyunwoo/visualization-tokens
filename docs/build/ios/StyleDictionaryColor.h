@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 23 Feb 2022 07:25:34 GMT
+// Generated on Wed, 23 Feb 2022 07:32:00 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -15,7 +15,8 @@ ColorSecondary,
 ColorText,
 ColorBackground,
 ColorShadow,
-ColorError
+ColorError,
+ColorWarning
 };
 
 @interface StyleDictionaryColor : NSObject

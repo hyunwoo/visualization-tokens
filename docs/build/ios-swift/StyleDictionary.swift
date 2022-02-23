@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 23 Feb 2022 07:25:34 GMT
+// Generated on Wed, 23 Feb 2022 07:32:00 GMT
 
 
 import UIKit
@@ -16,4 +16,5 @@ public class StyleDictionary {
     public static let colorSecondary = UIColor(red: 0.255, green: 0.455, blue: 0.690, alpha: 1)
     public static let colorShadow = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.2)
     public static let colorText = UIColor(red: 0.220, green: 0.220, blue: 0.220, alpha: 1)
+    public static let colorWarning = UIColor(red: 0.957, green: 0.714, blue: 0.086, alpha: 1)
 }

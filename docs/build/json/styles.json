@@ -4,5 +4,6 @@
   "ColorText": "#383838",
   "ColorBackground": "#fafafa",
   "ColorShadow": "#000000",
-  "ColorError": "#ff00ff"
+  "ColorError": "#ff00ff",
+  "ColorWarning": "#f4b616"
 }
