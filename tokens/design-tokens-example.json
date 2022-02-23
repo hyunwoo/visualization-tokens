@@ -76,6 +76,17 @@
           "exportKey": "color"
         }
       }
+    },
+    "textstrong": {
+      "description": "",
+      "type": "color",
+      "value": "#222222ff",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:700293d625f385b55514173ce93ca54793507d14,",
+          "exportKey": "color"
+        }
+      }
     }
   }
 }
