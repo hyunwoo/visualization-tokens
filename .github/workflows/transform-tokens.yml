@@ -55,6 +55,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          enable_jekyll: false
+          keep_files: true
+          allow_empty_commit: true
+          
 #      - name: Create PR 
 #        uses: peter-evans/create-pull-request@v3
 #        with:
