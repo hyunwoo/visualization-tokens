@@ -3,7 +3,7 @@
     "primary": {
       "description": "",
       "type": "color",
-      "value": "#ff00ffff",
+      "value": "#318d6fff",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
           "styleId": "S:3934cc22cd0a13407634aab9e01386a40ba85bac,",
