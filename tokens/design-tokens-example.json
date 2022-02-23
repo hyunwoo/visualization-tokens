@@ -87,6 +87,17 @@
           "exportKey": "color"
         }
       }
+    },
+    "textweek": {
+      "description": "",
+      "type": "color",
+      "value": "#666666ff",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:64a1057de9a09b42a93edcf9147ae39ffb8b6169,",
+          "exportKey": "color"
+        }
+      }
     }
   }
 }

@@ -6,5 +6,6 @@
   "ColorShadow": "#000000",
   "ColorError": "#ff00ff",
   "ColorWarning": "#f4b616",
-  "ColorTextstrong": "#222222"
+  "ColorTextstrong": "#222222",
+  "ColorTextweek": "#666666"
 }
