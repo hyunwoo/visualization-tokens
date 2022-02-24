@@ -8,4 +8,15 @@
   --color-warning: #f4b616;
   --color-textstrong: #222222;
   --color-textweek: #666666;
+  --typography-header1-font-size: 36px;
+  --typography-header1-text-decoration: none;
+  --typography-header1-font-family: IBM Plex Sans KR;
+  --typography-header1-font-weight: 400;
+  --typography-header1-font-style: normal;
+  --typography-header1-font-stretch: normal;
+  --typography-header1-letter-spacing: 4.32px;
+  --typography-header1-line-height: 43.2px;
+  --typography-header1-paragraph-indent: 0;
+  --typography-header1-paragraph-spacing: 0;
+  --typography-header1-text-case: none;
 }

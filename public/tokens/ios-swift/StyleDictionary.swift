@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 23 Feb 2022 08:14:55 GMT
+// Generated on Thu, 24 Feb 2022 02:08:46 GMT
 
 
 import UIKit
@@ -19,4 +19,16 @@ public class StyleDictionary {
     public static let colorTextstrong = UIColor(red: 0.133, green: 0.133, blue: 0.133, alpha: 1)
     public static let colorTextweek = UIColor(red: 0.400, green: 0.400, blue: 0.400, alpha: 1)
     public static let colorWarning = UIColor(red: 0.957, green: 0.714, blue: 0.086, alpha: 1)
+    public static let fontHeader1 = "[object Object]"
+    public static let typographyHeader1FontFamily = IBM Plex Sans KR
+    public static let typographyHeader1FontSize = 36
+    public static let typographyHeader1FontStretch = normal
+    public static let typographyHeader1FontStyle = normal
+    public static let typographyHeader1FontWeight = 400
+    public static let typographyHeader1LetterSpacing = 4.32
+    public static let typographyHeader1LineHeight = 43.2
+    public static let typographyHeader1ParagraphIndent = 0
+    public static let typographyHeader1ParagraphSpacing = 0
+    public static let typographyHeader1TextCase = none
+    public static let typographyHeader1TextDecoration = none
 }

@@ -7,5 +7,17 @@
   "ColorError": "#ff00ff",
   "ColorWarning": "#f4b616",
   "ColorTextstrong": "#222222",
-  "ColorTextweek": "#666666"
+  "ColorTextweek": "#666666",
+  "FontHeader1": {"fontSize":36,"textDecoration":"none","fontFamily":"IBM Plex Sans KR","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":4.32,"lineHeight":43.2,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
+  "TypographyHeader1FontSize": 36,
+  "TypographyHeader1TextDecoration": "none",
+  "TypographyHeader1FontFamily": "IBM Plex Sans KR",
+  "TypographyHeader1FontWeight": 400,
+  "TypographyHeader1FontStyle": "normal",
+  "TypographyHeader1FontStretch": "normal",
+  "TypographyHeader1LetterSpacing": 4.32,
+  "TypographyHeader1LineHeight": 43.2,
+  "TypographyHeader1ParagraphIndent": 0,
+  "TypographyHeader1ParagraphSpacing": 0,
+  "TypographyHeader1TextCase": "none"
 }
