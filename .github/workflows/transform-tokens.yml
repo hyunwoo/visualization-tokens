@@ -51,22 +51,12 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: 'main'
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          enable_jekyll: false
-          keep_files: true
-          allow_empty_commit: true
-  publish:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
+        uses: actions/checkout@v1
+        uses: actions/setup-node@v1
         with:
           node-version: 10
-      - run: npm install
-      - run: npm version patch
-      - uses: JS-DevTools/npm-publish@v1
+        run: npm install
+        run: npm version patch
+        uses: JS-DevTools/npm-publish@v1
         with:
           token: ${{ secrets.NPM_TOKEN }}
