@@ -1,6 +1,6 @@
 {
   "name": "visualization-tokens",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Base Repository for Visualization Tokens",
   "dependencies": {
     "style-dictionary": "^3"
