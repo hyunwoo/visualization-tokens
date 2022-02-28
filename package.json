@@ -12,7 +12,8 @@
   },
   "scripts": {
     "start": "npm run transform-tokens",
-    "transform-tokens": "node ./transformTokens.js"
+    "transform-tokens": "node ./transformTokens.js",
+    "deploy": "npm version patch && npm publish"
   },
   "repository": {
     "type": "git",
