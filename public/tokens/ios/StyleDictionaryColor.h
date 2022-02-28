@@ -4,27 +4,24 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 28 Feb 2022 05:52:31 GMT
+// Generated on Mon, 28 Feb 2022 06:02:49 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorSecondary,
-ColorText,
-ColorBackground,
-ColorShadow,
-ColorError,
-ColorWarning,
-ColorTextstrong,
-ColorTextweek,
-ColorPrimary,
 ColorGuiTextDay,
 ColorGuiTextStrongDay,
 ColorGuiTextWeakDay,
 ColorGuiTextNight,
 ColorGuiTextWeakNight,
-ColorGuiTextStrongNight
+ColorGuiTextStrongNight,
+ColorGuiBackgroundDay,
+ColorGuiBackgroundStrongDay,
+ColorGuiBackgroundWeakDay,
+ColorGuiBackgroundNight,
+ColorGuiBackgroundStrongNight,
+ColorGuiBackgroundWeakNight
 };
 
 @interface StyleDictionaryColor : NSObject

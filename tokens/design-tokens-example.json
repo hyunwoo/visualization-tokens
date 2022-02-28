@@ -1,104 +1,5 @@
 {
   "color": {
-    "secondary": {
-      "description": "",
-      "type": "color",
-      "value": "#4174b0ff",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:9c856d3adab40f0fcf02a6a02ed07ff048933b69,",
-          "exportKey": "color"
-        }
-      }
-    },
-    "text": {
-      "description": "",
-      "type": "color",
-      "value": "#383838ff",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:b5aac8b76e20aca26464c89249d1cfb15987fa44,",
-          "exportKey": "color"
-        }
-      }
-    },
-    "background": {
-      "description": "",
-      "type": "color",
-      "value": "#fafafaff",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:0318cc13c68c0e41fee34ee154a32024dcef3842,",
-          "exportKey": "color"
-        }
-      }
-    },
-    "shadow": {
-      "description": "",
-      "type": "color",
-      "value": "#00000033",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:1a79ffcaf2875d42a22ee63c98135fc022835237,",
-          "exportKey": "color"
-        }
-      }
-    },
-    "error": {
-      "description": "",
-      "type": "color",
-      "value": "#ff00ffff",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:0fe950bd845050393441e48faf9c5ab11ab85084,",
-          "exportKey": "color"
-        }
-      }
-    },
-    "warning": {
-      "description": "",
-      "type": "color",
-      "value": "#f4b616ff",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:a0efbe988179c4621cf2a6215a4668d25d6d1eaf,",
-          "exportKey": "color"
-        }
-      }
-    },
-    "textstrong": {
-      "description": "",
-      "type": "color",
-      "value": "#222222ff",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:700293d625f385b55514173ce93ca54793507d14,",
-          "exportKey": "color"
-        }
-      }
-    },
-    "textweek": {
-      "description": "",
-      "type": "color",
-      "value": "#666666ff",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:64a1057de9a09b42a93edcf9147ae39ffb8b6169,",
-          "exportKey": "color"
-        }
-      }
-    },
-    "primary": {
-      "description": "",
-      "type": "color",
-      "value": "#318d6fff",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:3934cc22cd0a13407634aab9e01386a40ba85bac,",
-          "exportKey": "color"
-        }
-      }
-    },
     "gui-text-day": {
       "description": "",
       "type": "color",
@@ -161,6 +62,72 @@
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
           "styleId": "S:aa9201d5b40265ae0f093e3b7a9d3978e62ff0aa,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "gui-background-day": {
+      "description": "",
+      "type": "color",
+      "value": "#f3f3f3ff",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:34bc04a8cdf67cadbdf2d8176dea93bc31b0f83f,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "gui-background-strong-day": {
+      "description": "",
+      "type": "color",
+      "value": "#ffffffff",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:b409add0350f6e69c3e4e8596d46c45fbe061a7f,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "gui-background-weak-day": {
+      "description": "",
+      "type": "color",
+      "value": "#d8d8d8ff",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:3141f0cf34def5aeeeef18bdd42e14d8c635ced7,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "gui-background-night": {
+      "description": "",
+      "type": "color",
+      "value": "#212121ff",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:e978c6ef3eb6185e08b54cdbf271697282bd0be8,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "gui-background-strong-night": {
+      "description": "",
+      "type": "color",
+      "value": "#000000ff",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:216d01490657615c5539a7037cc8db07e7710eab,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "gui-background-weak-night": {
+      "description": "",
+      "type": "color",
+      "value": "#363636ff",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:fbe2c5dc33785d85cdc47ceda37fe176b0d920e8,",
           "exportKey": "color"
         }
       }
