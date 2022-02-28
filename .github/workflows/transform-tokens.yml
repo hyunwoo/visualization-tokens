@@ -58,13 +58,15 @@ jobs:
           enable_jekyll: false
           keep_files: true
           allow_empty_commit: true
-#      - name: Create PR
-#        uses: peter-evans/create-pull-request@v3
-#        with:
-#          commit-message: "Tokens updated"
-#          title: "Design tokens updated"
-#          body: "Design tokens have been updated via Figma and need to be reviewed."
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#          # this parameter is optional and defaults to master but I am using main
-#          BRANCH_NAME: 'main'
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 10
+      - run: npm install
+      - run: npm version patch
+      - uses: JS-DevTools/npm-publish@v1
+        with:
+          token: ${{ secrets.NPM_TOKEN }}
