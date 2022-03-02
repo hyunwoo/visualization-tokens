@@ -15,8 +15,9 @@
     "transform-tokens": "node ./transformTokens.js",
     "deploy": "npm version patch && npm publish"
   },
-  "main": "./dist/tokens",
-  "exports": "./dist/tokens",
+  "exports": {
+    "./*": "./dist/tokens/*"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hyunwoo/visualization-tokens.git"
